@@ -1,1 +1,3 @@
 I did this project as a final paper in Pamukkale University Computer Engineering 3rd year course "CENG 307 - WEB BASED TECHNOLOGIES". This project is the online menu of a cafe. It contains various options such as food and beverages and also shows the prices of these products. In this way, customers who come to the cafe can access the cafe's menu online. This website is made using HTML and Javascipt. The website has been made attractive by using very innovative photographs and designs.
+
+To run the website, you need to download the Paprotka_Cafe.zip file. After extracting the zip file you downloaded to the folder, you can access the website by running the index.html file.
